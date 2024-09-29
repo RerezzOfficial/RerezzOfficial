@@ -14,8 +14,8 @@ kelass
 slebew
 Rerezz
 Asia/Jakarta
-$email
-$email
+adm@gmail.com
+adm@gmail.com
 rerezz
 adm
 adm
