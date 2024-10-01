@@ -90,7 +90,7 @@ install_theme() {
     read -r SELECT_THEME
     case "$SELECT_THEME" in
       1)
-        THEME_URL=$(echo -e "https://github.com/vallzprivate/theme/raw/main/C2.zip")
+        THEME_URL=$(echo -e "https://github.com/Awafff/RerezzOfficial/raw/main/C2.zip")
         break
         ;;
       2)
@@ -243,7 +243,7 @@ echo -e "${BLUE}[+] =============================================== [+]${NC}"
 echo -e "                                                                   "
 
 # Unduh file tema
-wget -O /root/C2.zip https://github.com/vallzprivate/theme/raw/main/C2.zip
+wget -O /root/C2.zip https://github.com/Awafff/RerezzOfficial/raw/main/C2.zip
 
 # Ekstrak file tema
 unzip /root/C2.zip -d /root/pterodactyl
