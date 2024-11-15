@@ -1,6 +1,8 @@
 # NamaProyek
 
-![Logo Proyek](link-ke-logo-atau-gambar.png)
+![Project Count](https://img.shields.io/github/search/RerezzOfficial/NamaProyek?label=Projects) 
+![Lines of Code](https://img.shields.io/tokei/lines/github/RerezzOfficial/NamaProyek)
+![License](https://img.shields.io/github/license/RerezzOfficial/NamaProyek)
 
 Deskripsi singkat tentang proyek Anda di sini. Jelaskan secara ringkas tujuan proyek dan manfaatnya.
 
@@ -24,9 +26,9 @@ Jelaskan lebih detail tentang proyek ini. Misalnya, apa tujuan utamanya, masalah
 
 ## ✨ Fitur
 
-- Fitur 1: Deskripsi singkat fitur.
-- Fitur 2: Deskripsi singkat fitur.
-- Fitur 3: Deskripsi singkat fitur.
+- **Fitur 1**: Deskripsi singkat fitur.
+- **Fitur 2**: Deskripsi singkat fitur.
+- **Fitur 3**: Deskripsi singkat fitur.
   
 Tambahkan fitur tambahan atau rencana fitur mendatang.
 
