@@ -1,41 +1,52 @@
-# 🎉 Welcome to RerezzOfficial's GitHub Repositories!
+# 🌟 Welcome to RerezzOfficial's GitHub Profile!
 
+![Profile Views](https://komarev.com/ghpvc/?username=RerezzOfficial&color=brightgreen&style=flat-square)
 ![GitHub Followers](https://img.shields.io/github/followers/RerezzOfficial?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/RerezzOfficial?style=social)
-![GitHub Repos](https://img.shields.io/badge/Public_Repositories-🌟%20Check%20Them%20Out-orange)
-
-## 🚀 About Me
-
-Hi! I'm **RerezzOfficial**, a passionate developer who loves building creative and impactful projects. Check out my repositories to explore what I'm working on! 
+![Total Repositories](https://img.shields.io/badge/Total%20Repositories-🌟%20%20Check%20Them%20Out-orange)
 
 ---
 
-## 📌 Featured Projects
+## 🔥 About Me
 
-### 🔧 [Project Name 1](https://github.com/RerezzOfficial/Project1)
-- **Description:** Brief overview of what this project does.
-- **Tech Stack:** Tech 1, Tech 2, Tech 3.
-
-### 🧪 [Project Name 2](https://github.com/RerezzOfficial/Project2)
-- **Description:** Another innovative project showcasing my expertise.
-- **Tech Stack:** Tech 1, Tech 2, Tech 3.
+Hi there! 👋 I'm **RerezzOfficial**, a developer passionate about building impactful and creative projects. Explore my repositories to discover my work!
 
 ---
 
-## 📡 GitHub API Integration
+## 📊 GitHub Statistics
 
-You can use the GitHub API to interact with my repositories programmatically. Here's a quick example using Python:
+### **Top Languages**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RerezzOfficial&layout=compact&theme=radical)
 
+### **Profile Stats**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RerezzOfficial&show_icons=true&theme=radical)
+
+### **Contributions**
+![GitHub Streak](https://streak-stats.demolab.com/?user=RerezzOfficial&theme=radical)
+
+---
+
+## 📡 Dynamic Information
+
+Here are some dynamic stats about my profile:
+
+1. **Total Repositories:** Use the GitHub API to count the repos programmatically.
+2. **Profile Visitors:** Provided by Komarev's badge above.
+3. **Stars Received:** Check the badge above!
+
+### Fetch GitHub Data with Python
 ```python
 import requests
 
 username = "RerezzOfficial"
-url = f"https://api.github.com/users/{username}/repos"
+url = f"https://api.github.com/users/{username}"
 
 response = requests.get(url)
 if response.status_code == 200:
-    repos = response.json()
-    for repo in repos:
-        print(f"Repo Name: {repo['name']}, URL: {repo['html_url']}")
+    user_data = response.json()
+    print(f"Name: {user_data['name']}")
+    print(f"Total Repositories: {user_data['public_repos']}")
+    print(f"Followers: {user_data['followers']}")
+    print(f"Following: {user_data['following']}")
 else:
-    print("Failed to fetch repositories")
+    print("Failed to fetch profile data")
