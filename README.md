@@ -1,52 +1,48 @@
-# 🌟 Welcome to RerezzOfficial's GitHub Profile!
+# 🌟 Selamat Datang di Profil GitHub RerezzOfficial!
 
-![Profile Views](https://komarev.com/ghpvc/?username=RerezzOfficial&color=brightgreen&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/RerezzOfficial?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/RerezzOfficial?style=social)
-![Total Repositories](https://img.shields.io/badge/Total%20Repositories-🌟%20%20Check%20Them%20Out-orange)
-
----
-
-## 🔥 About Me
-
-Hi there! 👋 I'm **RerezzOfficial**, a developer passionate about building impactful and creative projects. Explore my repositories to discover my work!
+![Jumlah Pengunjung](https://komarev.com/ghpvc/?username=RerezzOfficial&color=brightgreen&style=flat-square)
+![Pengikut GitHub](https://img.shields.io/github/followers/RerezzOfficial?style=social)
+![Pemberi Bintang](https://img.shields.io/github/stars/RerezzOfficial?style=social)
+![Total Repositori](https://img.shields.io/badge/Total%20Repositori-🌟%20%20Lihat%20Sekarang-orange)
 
 ---
 
-## 📊 GitHub Statistics
+## 🔥 Tentang Saya
 
-### **Top Languages**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RerezzOfficial&layout=compact&theme=radical)
+Halo semuanya! 👋 Saya **RerezzOfficial**, seorang developer yang bersemangat membangun proyek-proyek kreatif dan berdampak. Jelajahi repositori saya untuk menemukan berbagai karya menarik!
 
-### **Profile Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RerezzOfficial&show_icons=true&theme=radical)
+[![Kunjungi Profil GitHub Saya](https://img.shields.io/badge/🌐%20Kunjungi%20Profil-Open%20Link-blue?style=for-the-badge)](https://github.com/RerezzOfficial)
 
-### **Contributions**
+---
+
+## 📊 Statistik GitHub
+
+### **Bahasa Teratas**
+![Bahasa Teratas](https://github-readme-stats.vercel.app/api/top-langs/?username=RerezzOfficial&layout=compact&theme=radical)
+
+### **Statistik Profil**
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=RerezzOfficial&show_icons=true&theme=radical)
+
+### **Kontribusi**
 ![GitHub Streak](https://streak-stats.demolab.com/?user=RerezzOfficial&theme=radical)
 
 ---
 
-## 📡 Dynamic Information
+## 🔗 Tautan Interaktif
 
-Here are some dynamic stats about my profile:
+- [💼 Lihat Semua Repositori](https://github.com/RerezzOfficial?tab=repositories)
+- [⭐ Proyek Favorit Saya](https://github.com/RerezzOfficial?tab=stars)
+- [💬 Kirimkan Saran atau Pertanyaan](https://github.com/RerezzOfficial/issues)
 
-1. **Total Repositories:** Use the GitHub API to count the repos programmatically.
-2. **Profile Visitors:** Provided by Komarev's badge above.
-3. **Stars Received:** Check the badge above!
+---
 
-### Fetch GitHub Data with Python
-```python
-import requests
+## 🌟 Dukungan
 
-username = "RerezzOfficial"
-url = f"https://api.github.com/users/{username}"
+Jika Anda menyukai karya saya:
+1. Berikan **bintang** ⭐ pada repositori favorit Anda.
+2. Ikuti saya untuk proyek-proyek menarik di masa depan.
+3. Kirimkan umpan balik atau ide melalui [Issues](https://github.com/RerezzOfficial/issues).
 
-response = requests.get(url)
-if response.status_code == 200:
-    user_data = response.json()
-    print(f"Name: {user_data['name']}")
-    print(f"Total Repositories: {user_data['public_repos']}")
-    print(f"Followers: {user_data['followers']}")
-    print(f"Following: {user_data['following']}")
-else:
-    print("Failed to fetch profile data")
+---
+
+✨ **Terima kasih telah mengunjungi profil saya! Mari kita ciptakan sesuatu yang luar biasa bersama.**
