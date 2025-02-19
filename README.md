@@ -1,7 +1,7 @@
 
 <div align="center">
     <img
-        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Hey+there!;It's+me,+Sanzy!;Welcome;To+my+GitHub+world!ðŸš€"
+        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Haii+Selamat+Datang!;I'M,+Rerezz!;Welcome;To+my+GitHub"
             alt="Typing SVG"
         /
         >
