@@ -21,19 +21,7 @@
   <!-- <img src="https://avatars.githubusercontent.com/u/124222684?v=4" alt="Your Profile Picture" width="200" height="200"> -->
 
   <br>
-
-  <p>ðŸ‘‹ Hey there! I'm a <strong>student</strong> with a passion for tech things.</p>
-
-   - ðŸ‘€ Iâ€™m interested in Whatsapp Bot, Linux, Raspberry Pi
-
-  
-  - ðŸ’» Currently Learning **C** and Web technologies for practical skills.
-  
-  
-  - ðŸŒ€ Fun fact: I love to listen to music and watch anime/movies/series.
-</div>
-
-<p align="center">ðŸŒŸ If you share any of these interests or want to collaborate, feel free to connect with me!</p>
+<a href="https://www.api.im-rerezz.xyz">My Reset Api</a>
 
 <p align="center">
   <a href="https://wa.me/6285216955233"><img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" alt="Social Media Icon" width="30" height="30"></a>
