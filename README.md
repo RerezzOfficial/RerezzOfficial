@@ -21,14 +21,12 @@
   <!-- <img src="https://avatars.githubusercontent.com/u/124222684?v=4" alt="Your Profile Picture" width="200" height="200"> -->
 
   <br>
-<a href="https://api.im-rerezz.xyz">Websit Reset Api</a>
+<a href="https://im-rerezz.xyz">My Websit</a>
 
 <p align="center">
   <a href="https://wa.me/6285216955233"><img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" alt="Social Media Icon" width="30" height="30"></a>
   <a href="https://youtube.com/@Rerezz-Official"><img src="https://i.ibb.co/rFJv7pC/1701093278737-removebg-preview.png" alt="Website Icon" width="40" height="30"></a>
 </p>
-
-![Visitors](https://komarev.com/ghpvc/?username=RerezzOfficial&label=Profile%20Views&color=green&style=flat)
 
 💻 Fullstack Developer 
 
