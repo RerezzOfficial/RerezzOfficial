@@ -19,9 +19,7 @@
 </p> 
 <div align="center">
   <!-- <img src="https://avatars.githubusercontent.com/u/124222684?v=4" alt="Your Profile Picture" width="200" height="200"> -->
-
-  <br>
-<a href="https://im-rerezz.xyz">My Websit</a>
+### <a href="https://im-rerezz.xyz"><b>My Website</b></a>
 
 <p align="center">
   <a href="https://wa.me/6285216955233"><img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" alt="Social Media Icon" width="30" height="30"></a>
