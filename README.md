@@ -28,12 +28,9 @@
   <a href="https://youtube.com/@Rerezz-Official"><img src="https://i.ibb.co/rFJv7pC/1701093278737-removebg-preview.png" alt="Website Icon" width="40" height="30"></a>
 </p>
 
-    
-# 👋 Hi, I'm Rerezz
-
 ![Visitors](https://komarev.com/ghpvc/?username=RerezzOfficial&label=Profile%20Views&color=green&style=flat)
 
-💻 Programmer  Gajelas
+💻 Fullstack Developer 
 
 ---
 
