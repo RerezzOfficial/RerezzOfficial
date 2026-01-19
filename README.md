@@ -8,19 +8,13 @@
     </a>
 </p>
 </div>
-
-
 <h2 align="center"></h2>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RerezzOfficial&label=Profile%20views&color=0e75b6&style=flat" alt="RerezzOfficial" /> </p>
-
 <br>
-
 </p> 
 <div align="center">
   <!-- <img src="https://avatars.githubusercontent.com/u/124222684?v=4" alt="Your Profile Picture" width="200" height="200"> -->
  <a href="https://im-rerezz.xyz"><b>My Website</b></a>
-
 <p align="center">
   <a href="https://wa.me/6285216955233"><img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" alt="Social Media Icon" width="30" height="30"></a>
   <a href="https://youtube.com/@Rerezz-Official"><img src="https://i.ibb.co/rFJv7pC/1701093278737-removebg-preview.png" alt="Website Icon" width="40" height="30"></a>
@@ -32,7 +26,7 @@
 
 ###
 
-<h3 align="left">Bahasa Dan Tools</h3>
+<h3 align="left">Language And Tools</h3>
 
 ###
 
