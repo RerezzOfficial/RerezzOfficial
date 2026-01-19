@@ -1,4 +1,4 @@
-
+![Visitors](https://komarev.com/ghpvc/?username=RerezzOfficial&style=flat-square&color=green)
 <div align="center">
     <img
         src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Haii+Selamat+Datang!;I'M,+Rerezz!;Welcome;To+my+GitHub"
@@ -29,7 +29,13 @@
 </p>
 
     
+# 👋 Hi, I'm Rerezz
 
+![Visitors](https://komarev.com/ghpvc/?username=RerezzOfficial&label=Profile%20Views&color=green&style=flat)
+
+💻 Programmer  Gajelas
+
+---
 
 ###
 
