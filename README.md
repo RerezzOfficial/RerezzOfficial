@@ -1,111 +1,63 @@
-
 <div align="center">
-    <img
-        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Haii+Selamat+Datang!;I'M,+Rerezz!;Welcome;To+my+GitHub"
-            alt="Typing SVG"
-        /
-        >
-    </a>
-</p>
-</div>
-<h2 align="center"></h2>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=RerezzOfficial&label=Profile%20views&color=0e75b6&style=flat" alt="RerezzOfficial" /> </p>
-<br>
-</p> 
-<div align="center">
-  <!-- <img src="https://avatars.githubusercontent.com/u/124222684?v=4" alt="Your Profile Picture" width="200" height="200"> -->
- <a href="https://im-rerezz.xyz"><b>My Website</b></a>
-<p align="center">
-  <a href="https://wa.me/6285216955233"><img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" alt="Social Media Icon" width="30" height="30"></a>
-  <a href="https://youtube.com/@Rerezz-Official"><img src="https://i.ibb.co/rFJv7pC/1701093278737-removebg-preview.png" alt="Website Icon" width="40" height="30"></a>
-</p>
 
-💻 Fullstack Developer 
+<img src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=35&duration=4000&pause=1000&color=FF6732&center=true&vCenter=true&width=435&lines=Haii+Selamat+Datang!;I'M,+Rerezz!;Welcome+To+My+Profile;Bukan+Anak+IT+Bree!" alt="Typing SVG" />
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=RerezzOfficial&label=PROFILE%20VIEWS&color=orange&style=flat-square" alt="RerezzOfficial" /> 
+</p>
 
 ---
 
-###
-
-<h3 align="left">Language And Tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="githubactions logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="stackoverflow logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-</div>
-
-###
-
-
-
-<br>
-
-
-<!-- 
-<h2 align="center"></h2> -->
-
-
-<br>
-
+### 🌐 Social Media & Website
+Jangan cuma lewat, mampir juga ke sini biar makin akrab!
 
 <p align="center">
-  <a href="https://github.com/RerezzOfficial"> <img  alt="RerezzOfficial GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/RerezzOfficial?cardType=github&theme=github-dark&preferLogin=true" />  </a>
-
-
-
-<p align="center">
-  <a href="https://github.com/RerezzOfficial">
-    <img src="https://streak-stats.demolab.com?user=RerezzOfficial&theme=dark&background=000000" alt="GitHub Streak">
+  <a href="https://im-rerezz.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Website-FF6732?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://wa.me/6285216955233" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WA" />
+  </a>
+  <a href="https://youtube.com/@Rerezz-Official" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YT" />
   </a>
 </p>
 
+---
 
- <p align="center">
-    <a href="https://github.com/RerezzOfficial">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=RerezzOfficial&theme=redical" alt="Stats">
-    </a>
+### 🛠️ Language And Tools
+Gaya dikit walaupun masih belajar, yang penting tools lengkap!
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,py,html,css,bootstrap,c,git,github,vscode,linux,ubuntu,debian,raspberrypi,replit,heroku,vercel,azure,githubactions,stackoverflow&perline=10" />
 </p>
 
+---
 
-<p align="center"><a href="https://github.com/sanzydev"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RerezzOfficial&theme=radical&layout=compact"></a></p> 
+### 📊 GitHub Stats (Gaya Dikit Bree)
+Biar kelihatan kalau akunnya hidup dan bukan bot.
 
+<p align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/RerezzOfficial?cardType=github&theme=github-dark&preferLogin=true" alt="Rerezz Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RerezzOfficial&theme=dark&background=000000&ring=FF6732&fire=FF6732" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RerezzOfficial&theme=redical&bg_color=000000&color=FF6732" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RerezzOfficial&theme=radical&layout=compact" alt="Top Langs" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Gak perlu jadi suhu buat berbagi, yang penting berani ngoding!"</i> <br>
+  🔥 <b>Keep Coding and Stay Humble!</b> 🔥
+</p>
+
+</div>
