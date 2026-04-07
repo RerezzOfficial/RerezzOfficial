@@ -12,7 +12,7 @@
 Jangan cuma lewat, mampir juga ke sini biar makin akrab!
 
 <p align="center">
-  <a href="https://im-rerezz.xyz" target="_blank">
+  <a href="https://api.im-rerezz.my.id" target="_blank">
     <img src="https://img.shields.io/badge/My%20Website-FF6732?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://wa.me/6285216955233" target="_blank">
